@@ -1,2 +1,2 @@
 --- Query that  lists all databases in a mysql server
-SHOW DATABASES
+SHOW DATABASES;

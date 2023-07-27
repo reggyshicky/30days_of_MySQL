@@ -1,3 +1,3 @@
 -- Command to switch to databases
 
-USE world
+USE world;
