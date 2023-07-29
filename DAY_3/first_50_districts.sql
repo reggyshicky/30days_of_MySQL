@@ -1,0 +1,1 @@
+SELECT * FROM city ORDER BY Population ASC LIMIT 50;
