@@ -1,1 +1,1 @@
-SELECT MAX(Population) FROM city;
+SELECT MAX(Population) FROM city WHERE CountryCode = 'KEN';
